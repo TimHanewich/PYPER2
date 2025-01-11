@@ -1,10 +1,10 @@
 # Steering system-related GPIO pins. GP #'s, not pin numbers
-gp_steering:int = 12
+gp_steering:int = 18     
 
 # Drivetrain-related GPIO pins. GP #'s, not pin numbers
-gp_safety:int = 13
-gp_i1:int = 14
-gp_i2:int = 15
+gp_safety:int = 20
+gp_i1:int = 19 
+gp_i2:int = 21 
 
 # REYAX RYLR998 UART interface
 gp_lora_rx:int = 17 # the pin the raspberry pi will use to RECEIVE data to the RYLR998
