@@ -3,6 +3,10 @@
 
 A fully 3D-printed electric rover that uses common inexpensive components, is powered by a Raspberry Pi Pico, and programmed in MicroPython. PYPER 2 borrows design elements and carries over some components from [PYPER](https://github.com/TimHanewich/PYPER), my original design.
 
+*Click the picture below for a demo*
+
+[![pic](https://i.imgur.com/sahroON.jpeg)](https://youtu.be/lZBzH99BloM)
+
 ## 3D-Printing the Parts
 ![blender](https://i.imgur.com/SdJzHiA.png)
 
